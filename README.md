@@ -1,6 +1,8 @@
 # obfus-value
 
-The obfuscation annoations for value. We knew `proguard` could obfuscate symbols, but it can not obfuscate the value.
+The obfuscation annoations for value.
+
+We knew `proguard` could obfuscate symbols, but it can not obfuscate the value.
 Basically, we used to obfuscate values manually. But it's very routine. We should generate an obfuscator for obfuscating constants.
 
 ## Usage
